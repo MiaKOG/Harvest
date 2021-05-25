@@ -1,6 +1,6 @@
 # Harvest
 _____
-<div align=”center”> ![](images/logo2-removebg-preview.png) </div>
+<img align="center"  src= "![](images/logo2-removebg-preview.png)">
 
 A web app to allow registered grocery store owners to give quality food to anyone using an Android app. Utilizes GPS for giver and no registration for consumer. This is usually food that is about to be bad or expired. The database communications done with Google Firestore.
 
