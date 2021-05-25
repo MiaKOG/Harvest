@@ -2,7 +2,7 @@
 _____
 <img align="center"  src= "images/logo2-removebg-preview.png">
 
-A web app to allow registered grocery store owners to give quality food to anyone using an Android app. Utilizes GPS for giver and no registration for consumer. This is usually food that is about to be bad or expired. The database communications done with Google Firestore.
+A web app to allow registered grocery store owners to give quality food to anyone using the Android app at a discounted price. This app aims to reduce food waste and aid in decreasing food disaprities in lower income communities.Utilizes GPS so users can locate near by stores and requires no registration for the consumer. The database communication is done within Heroku.
 
 ## Website
 https://team-um6.herokuapp.com/
